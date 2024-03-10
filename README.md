@@ -1,2 +1,2 @@
 # youtube-datawarehouseing
-this project is part of Deep-learning coursework
+this project is a part of Deep-learning coursework
