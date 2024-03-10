@@ -10,7 +10,9 @@ from streamlit_option_menu import option_menu
 pd.set_option('display.max_rows', None)
 pd.set_option('display.max_columns', None)
 
-
+'''
+ to make it work have to add mongodb client link
+'''
 def streamlit_config():
 
     # page configuration
